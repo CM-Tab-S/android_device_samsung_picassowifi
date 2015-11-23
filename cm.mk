@@ -10,4 +10,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_MODEL=SM-T520 \
     PRODUCT_NAME=picassowifi \
     PRODUCT_DEVICE=picassowifi \
-    TARGET_DEVICE=picassowifi \
+    TARGET_DEVICE=picassowifi
